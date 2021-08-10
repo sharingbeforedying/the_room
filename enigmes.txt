@@ -1,0 +1,350 @@
+énigmes :
+--------------
+
+SONS : il faut répéter 3 fois la phrase "<...>"
+       il faut siffler un air particulier
+       classement : reconnaître une suite de bruits
+		    classer grave -> aigu (app: sélecteur à points)
+		    classer heure de la journée
+       Imagier
+	des bruits
+	des cris d'animaux
+	des instruments de musiques
+	*des chansons
+	*des sons bizarres (DIY)
+	des sons de "the room"
+       -> memory 7*n
+       Il faut retrouver la bonne séquence d'images pour des sons de "the room" (cela amène les joueurs à toquer un peu partout)
+
+
+Coffre/clé : livre/page cornée (il est écrit qqchose sous la corne)
+Coffre clé : photo avec zone floutée ou point d'interrogation ou silhouette / vidéo dont l'image est un arret sur image
+Coffre/clé : tableau avec zones de couleurs/certaines couleurs sont équivalentes (bleu égale rouge, vert égale jaune) et cela révèle un code
+coffre/clé : coffre a code chiffres et décalages pour chaque chiffre. 3 haut, 4 bas, 1 haut, 1 haut, 1 haut, 2 bas
+coffre/clé : j'attend qu'on me donne trois pièces pour parler davantage
+coffre/clé : zone collante au sol/mettre de la cendre pour révéler la solution
+Coffre/clé : assiette sale / liquide vaisselle
+Coffre/clé : quelque chose au fond de la bouteille/remplir la bouteille
+Coffre/clé : Croix en carton collé, toute petite entaille au cutter (indécelable)/ comme sur le dessin, il faut l'ouvrir
+Coffre/clé : radio-cassette, piles électriques/cordon d'alim + cassette ou cd ou clé usb
+Coffré/clé : cachettes impossibles sans miroir/objet : outil miroir : fabriqué avec trombones, scotch et bout de miroir
+Coffre clé : inscription en couleurs/lunettes avec filtres de couleur
+Coffre/clé : effaceur sur papier/stylo plume révèle zone difficiles à teinter
+Coffre/clé : stylo plume par dessus bic/effaceur
+Coffre/clé : méli-mélo de lettres/ ombre portée d'un stylo ou de quelque chose de fin qui révèle le mot recherché
+Coffre/clé :Volets roulants avec 0,1 ou 2 fenetres fermées. mur: XYZ,[vitre ou volet: ABC],[vitre ou volet: DEF],mur: GHI
+  Pleins de combinaisons sont affichées. / un plan vu de dessus avec les fenetres fermées et ouvertes, et les niveaux d'ouverture de chaque volet roulant (tout ça en mode : expliquer la scène de crime)
+
+Observation: un empilement d'objets colorés dans chaque pièce, recréer les empilements de couleurs dans l'app
+
+Classement : cordes, cables et fils de différentes tailles : il faut les classer par longueur pour former un mot (chaque lettre est en morse sur chaque corde)
+
+retrouver la date
+
+Alcools : premiere lettre
+
+actions:
+	pour activer la lumière dans la salle, les joueurs doivent se toucher, la main de l'un des joueurs sur X, la main de l'un des joueurs sur Y (il faut s'allonger pour y arriver)
+
+Mots-fléchés:
+	former un mot avec plusieurs morceaux de mots, sur plusieurs pages
+	magazine de jeu de mots croisés, la page des réponses dans le numéro suivant est découpée
+
+[à la "Pictures of life"] :
+-nombre de pattes
+-Drapeaux et nombre de couleurs
+-ligne d'horizon du plus bas au plus haut
+
+Multi-documents :
+	Chaîne de regards, tout ce qui a des yeux peut participer à la chaine. Il faut reconstituer le bon ordre.
+		zebre
+		seb
+
+	La vie d'une fleur (on suit la vie d'une fleur sur plusieurs documents, dans plusieurs pièces, toujours associée à un symbole)
+		pot
+		petite pousse
+		1ere feuille
+		plein de feuilles
+		bouton
+		fleur
+		fleur fanée
+		plante fanée
+		pot
+
+	La partie de poker
+
+
+
+affichage digital (cristaux liquides) avec cristaux défaillants
+
+Jouer avec l'ombre : anneau entoure objet d'une ombre, ombre d'un ensemble d'objets forment texte ou image, Éclipse
+
+puzzle
+	tableau avec bandes de couleurs et lettres avec bandes qu'il faut replacer au bon endroit pour trouver l'ordre correct
+	cordes et ensemble de points : une seule configuration permet d'avoir les points reliés 2 à 2  (cordes emmelées au départ ^^)
+
+masques à poser les uns sur les autres pour former un visage célèbre
+
+pliage:
+	Lettre à plier pour faire apparaître symbole
+
+Cases vides avec lignes entremelées qui mènent chacune à une lettre
+
+codage:
+	code de césar pour commencer tranquille
+	une lettre sur deux et autres trucs de Cypher
+	date à traduire en base 12, en base 16
+	mélange de chiffres romains et de chiffres arabes (MC4LX3I3)
+
+Énigme : 52 cartes, 26 lettres dans l'alphabet. On écrit deux fois l'alphabet sur les cartes, une lettre par carte. On affiche une carte à l'écran et on demande la lettre au joueur. On fait en sorte qu'il manque des cartes dans le paquet.
+Mot à deviner : POKER
+
+grosses énigmes (plusieurs étapes):
+	graphe sur deux murs + une porte + un poster + incides sur le pc et sur des documents
+	Lignes entremélées + miroir à poser + angle + poster à accrocher (l'entremèlement original, sur lequel il faut poser le miroir, est faux) + il y a d'autres départs d'entremèlement dans la pièce, pour brouiller les pistes
+
+Enigme Ilona:
+	{Refrain:}
+	Un oiseau, un enfant, une chèvre
+	Le bleu du ciel, un beau sourire du bout des lèvres
+	Un crocodile, une vache, du soleil
+	Et ce soir je m'endors au pays des merveilles
+	Un oiseau, un crayon, une chèvre
+	Le bleu du ciel, un peu de sucre, un peu de sel
+	Un crocodile, quelques fleurs, une abeille
+	Et ce soir je m'endors au pays des merveilles
+
+Enigme : paquets cachés : récupérer les N objets
+    lettres et anagramme contenue dans le magazine
+    scotchs de couleur avec code en dessous et l'ordre des scotchs est indiqué ailleurs
+
+Tool-related :
+  Mesure d'angle avec rapporteur
+  Ouverture de loquet de porte avec carte bancaire
+
+Énigme : clous (ou autres fixations) et cerceaux (ou cordes + cerceaux)
+          à accrocher au fur et a mesure sur le mur.
+          Une vidéoprojection sur le mur avec des chiffres et lettres fait apparaître le code (composé des éléments entourés)
+
+
+
+COOP21:
+  Unordered memory:
+    Match 2 columns
+      Question : sequence de paires (ou de triplets, etc..), input : relier les objets de chaque colonne
+    What was in picture ?
+      Question: Photo avec objets, input : create (unordered) bag of images appearing in photograph from grid of images
+    Mettre dans le bon sac:
+      Question : Présentation d'objets, input: put each object in the right bag (a bag can hold many objects)
+    Recreate scene:
+      Question : grille d'images, input: glisser les images manquantes au bon endroit
+      Question: Photo avec objets, input : add objects at right spot on background image of emptied scene
+      [HARDCORE DEVELOPMENT] Question: Photo avec objets, input: deplete canvas of superimposed images from wrong images to get to the question photograph [seamless is hardcore]
+    Counting:
+      Question : Cloches d'église et autres sons répétitifs mélangés (chacun compte sa catégorie), input: mettre le bon compte après chaque image (number input)
+  Ordered memory:
+      Recreate sequence:
+        Question: séquence de N segments d'une suite d'images (exemple [4,5,6] puis [9,10,11] puis [6,7,8] etc.) Input : recreate sequence from grid of images (COOP21 si on met le numéro de l'image en dessous de l'image)
+        Question: image faite d'images superposées, input: recreate z-ordered sequence from grid of images
+Coop 21 : cartes à jouer avec jetons
+Coop 28 : carte à jouer sur carte à jouer
+Coop 21 : piano keys
+Coop 21 : sons en simultané (animal + mécanique + instrument de musique)
+Coop 21 : un son est joué, une image est encadrée, la couleur de la bordure change à chaque tour
+Coop 28 : x + case "click me"
+Coop 21 : lettres à mémoriser, l'interface de saisie est un imagier lettre - image (C pour cheval etc)
+Coop 21 : Séparation des tâches : 1 sur l'ordi, 1 sur un code au sol et 1 sur un code au plafond (par exemple) [A -- 52] [52 -- canard] [sur l'écran : un choix d'images]
+            C dit A
+            A dit 52
+            B dit canard
+            C appuie sur canard
+            Et ainsi de suite
+            Nombre + direction (h b g d et diags) pour indiquer un nombre adjacents sur un grand tableau de nombre
+            Ou carte avec repérage A6, C4, etc.
+            Carte custom avec nuage de nombres répartis aléatoirement
+            A5 rouge -- 102 -- camion
+Coop 21 : des play-button sont ronds ou carrés ou autre, bleus jaunes vert orange ou rouge : les joueurs appuient sur le bouton play pour entendre des sons. Input : 5 cases avec une couleur et une forme, il faut dnd les bonnes images dans les cases
+Coop 21 : transporter multiview : un chiffre ou une lettre est écrit sur une face d'un objet, input : l'objet est montré sous un angle différent
+Coop21 : mémoire : on fait défiler une suite d'éléments. Questions : on demande pour un élément pris au hasard (qu'il soit ou non dans la séquence présentée) sa position dans la séquence : réponse dans X union [[1,n]].
+-> on peut s'amuser à mettre des images qui se ressemblent
+
+
+Prenons notre temps:
+  P 51, date <-> 1957
+  P 53, rond <-> escargot
+  P 78, voyage <-> venise
+
+  Énigme : relier les points/suivre les flèches :
+            scotchs de couleur et de forme sur un mur : si le joueur essaye de prime abord, le message formé en reliant les points ne fonctionne pas.
+            au bout d'un moment, on dit au joueur qu'il peut retirer tous les scotchs bleus ou tous les triangles,ce qui révèle d'autres scotchs rouges et ce qui donne la vraie réponse.
+            symboles : debut |-> milieu -> fin ->|.
+            Lettre F : deux débuts et une fin.
+            Rebondit sur les scotchs rouge, traverse les bleus, est stoppé par les verts.
+
+
+__
+app
+
+LA SOURIS COMME SEUL INPUT
+
+A gauche les énigmes,
+	affichage plein écran quand on clique sur une énigme
+A droite les documents (scrollable vertical list)
+	affichage plein écran quand on clique sur un document
+Résoudre des énigmes donne accès à des documents
+
+*Inventaire pour analyser les documents :
+	"détecteur" qui révèle des informations cachées sur les images
+
+
+Minij : Nombre de f dans le paragraphe ((attention, il y a des fautes)) (utiliser f script et f cursif, f majuscule et f minuscule (seul un type de f est à compter)
+	"pour dissimuler mon code, j'utilise le nombre de C, de O, de D, de E dans le texte."
+Minij : barycentre : placer A B C et faire déplacer M pour que les coordonnées soient bonnes
+Minij: Lettres déposées +ou- les unes sur les autres, dans l'ordre
+Minij : recréer la suite à l'aide d'une interface oui/non à la tinder
+Minij : Taquin avec cases transparentes et avec feutre
+Minij : Tangram avec indice une fois le puzzle complété + il y a plus de pièces que nécessaire (vraies pièces : objets cachés) + la forme cible est un objet caché
+Minij : Barycentre à trouver en glissant la souris
+Minij : "la combinaison gagnante". Faire un truc de poker Texas hold'em avec les cartes centrales revelees au fur et a mesure (ambiance saloon ou vegas)
+Minij : Recréer la suite d'évènement avec du drag n drop (typiquement : pictures of life)
+Minij : [Partage des tâches] : compter le nombre de clowns, de ballons, d'étoiles dans une vidéo, ou dans une suite d'images, le contenu des champs de saisie et leur ordre se réinitialise toutes les x=12 secondes (pour obliger les joueurs à coopérer)
+Minij : [Partage des tâches] : mémorisation n*7=21, avec rangée de lumières à la Quern (solution : chaque joueur mémorise 7)
+Minij : [Partage des tâches] : mémorisation n catégories : 7*n (6*n?): texte d'une couleur en couleur sur un fond de couleur (solution : chaque joueur mémorise sa catégorie)
+Minij : [Partage des tâches] : mémorisation n*7 : imagier des sons
+Minij : 7 différences
+Minij : 'énigme des bidons d'essence réservoir 13 litres à faire avec bidons de 3, 9 et 11 litres.
+Minij: Pictures_of_life : doigts(5), dents(32), yeux(2), nez(1), (oreille(1) (van gogh)) ou quelques notes de musique genre 10)
+Minij: DND:aucun indice, il faut jouer avec l'app pour comprendre que lorsqu'un chiffre est bien placé on ne peut plus le recouvrir/déplacer
+
+
+TRUC CHIADE :
+**	le maître du jeu peut donner dans l'inventaire de l'app des objets que les joueurs ont récupérés dans la pièce physique (->client/serveur)
+
+Modules :
+	cadenas à lettres (sélecteurs cycliques)
+	cadenas à chiffres
+	cadenas à symboles
+	mémorisation à la Quern / saisie du mot de passe (sélécteur à points)
+	grille d'images que l'on clique dans l'ordre : une fois cliqué : le nombre associé apparaît
+							si on clique à nouveau, cela efface la sélection
+
+_
+mécanique:
+---------
+Mécanique : trouver les fautes dans un texte
+Mécanique : les 7 différences (une lettre pour chaque différence)
+Mécanique : plusieurs textes écrits les uns par dessus les autres
+Mecanique : Noeuds sur une corde, scotch sur une corde
+Mécanique : coulissement d'un carton, d'un bout de bois, etc.
+Mécanique : patron de cube, patron de pavé, patron de tetraedre
+Mécanique : Logique : s'il y a un chat dans la pièce, alors X l'est aussi. P Q etc.
+Mécanique : graphe orienté
+Mécanique : morceau de poster déchiré pour indiquer endroit
+Mécanique : corde qui relie deux clanches (si une porte est ouverte, l'autre est fermée)
+Mécanique : murs des pièces en modèle réduit, avec quelque chose d'écrit dessus / vue 3D dans laquelle on peut dessiner sur les murs (reproduire ce qu'il y a sur les miniatures)
+Mécanique : rebond parfait sur un mur (d'une balle tirée par exemple)
+Mécanique : triangulation sur un plan ou une carte
+Mécanique : Rectangle découpé sur une page qui laisse voir un mot sur la page suivante
+Mécanique : un programme écoute et attend d'entendre des séquences de notes particulières pour activer x ou y
+Mécanique: chiffres et lettres sur des objets de la rue à l'extérieur de l'appartemment, visibles depuis les fenêtres
+Mécanique : l'appartement a plusieurs dispositions suivant les époques (toilettes dans la cuisine etc)
+Mécanique : des emplacements sont visibles, pour les objets
+Mécanique : miroir déformant
+Mécanique : papier calque
+Mécanique : Chiffres romains
+Mécanique : Inscription sur un ballon de baudruche que l'on ne peut lire qu'en le gonflant
+Mécanique : Lieu photographié sous différents angles : une image à reconstituer
+Mécanique : réveiller les morts : si on se place à un endroit précis, qu'on tient un objet et qu'on dit une formule, le fantôme nous raconte son histoire (le MJ joue un son sur son device)
+		Les joueurs doivent faire un rond en se tenant les mains
+		Les joueurs doivent se tenir dos à dos et fermer les yeux : on place le device entre les joueurs et la voix dit que 'tu es le seul à m'entendre, les autres ne m'entendent pas...'
+Mécanique : certaines lettres sont pareilles, à une orientation près (u/c/n, w/m, A/V, 3/E, ..)
+Mécanique : Filmer le parcours à la The Witness avec son portable / validation du parcours par le MJ
+Mécanique : histogramme et chaque longueur correspond à une lettre
+Mécanique : Résoudre des énigmes donne accès à des documents
+Mécanique : transformation son -> image, image -> son,
+
+Mécanique : Système de fausse caméra cachée et de faux micros dont les enregistrement sont accessibles à l'aide d'identifiants à inscrire dans l'app
+Mécanique : Inclure des fausses pistes dans les documents : Un tampon "fausse piste" ou "Rien à signaler" permet de les distinguer des indices utiles. C'est l'occasion de mettre des photos bizarres et des créations.
+Mécanique : Hardcore : Inclure des vraies fausses pistes
+Mécanique : Introduire du bruit sur les images et sur les sons
+Mécanique : les cadenas sont des autocollants (pas cher)
+Mécanique : mettre plusieurs cadenas sur une même boîte
+Mécanique : utiliser retardateur du téléphone pour faire des montages faciles
+Mécanique : Hardcore : glisser des indices dans les mini-jeux de l'app (exemple : placeholders d'input = indice (étoile-croix-triangle-carré-rond))
+Mécanique : Hardcore : 1 morceau trafiqué parmi une suite de pistes d'un album audio
+Mécanique : Hardcore : 1 séquence trafiquée dans un clip vidéo
+Mécanique : Hardcore : système de détection de la triche (CTRL-U)
+Mécanique : emmeler une corde
+Mécanique : équivalence Chose <-> nombre (cheval : 34, peluche : 564) et il faut faire une addition
+Mécanique : code chiffre sons
+Mécanique : Pièce entièrement reconstructible mentalement: Photos de la piece dans la pièce et miroirs
+Mécanique : Annulation d'espace -> objet inaccessible
+Mécanique : Répliques : deux fois la même énigme  (seulement cette fois, l'indice n'est plus visible)
+Mécanique : Alignement des aiguilles sur une horloge
+Mécanique : [Général] CORRESPONDANCE : A <-> B
+Mécanique : Texte avec description croisées (le niveau de description de chaque personnage croît constamment avec la position dans le texte)
+Mécanique : Lettres à disqualifier pour former un mot
+Mécanique : Zèbre : code avec epaisseur des rayures. 26 lettres : 13 bandes blanches, 13 bandes noires. 13 épaisseurs différentes.
+Mécanique : [Général] faire REFERENCE à l'histoire mise en place dans le jeu
+Mécanique : distance constante : 10 mots de passe à trouver : chaque mot de passe se trouve à 1 mètre (par exemple) d'un autre mot de passe.
+Mécanique : Séparation des tâches / être synchronisés
+Mécanique : carte avec grille de repérage (pas forcément des lignes droites) A6, C4 etc.
+Mécanique : [Général] Temps limité
+Mécanique : [Technophilie] Connexion en bluetooth a des devices multiples pour déclencher plusieurs sons à des endroits différents
+Mécanique : Coop : souris/clavier sont dans une pièce différente de écran ou dans une orientation différente (augmenter la taille du pointeur de souris)
+Mécanique : [Général] Eurêka : Synergie d'énigmes passées et d'indices
+Mécanique : Localisation : préciser une localisation particulière en disant "je vois A et je vois B simultanément" (les miroirs sont les bienvenus)
+Mécanique : [Général] Shopkeeper : faire comme si j'étais derrière un comptoir avec une grille. J'attends qu'on me donne des objets et des mots de passe pour donner des objets (que je laisse visibles dès le début de la partie)
+Mécanique : [Général] Validation par le MJ : les joueurs demandant au MJ si la configuration qu'ils ont mises en place est bonne, si oui le MJ donne un indice ou un objet ou enlève un cadenas
+Mécanique : Photos de scène de crime
+Mécanique : Rajouter des cases noires sur une grille de mots croisés pour faire apparaitre mot
+Mécanique : Triturer un objet pour comprendre
+Mécanique : Caméra cachée : Enregistrement : vidéo où le filmé regarde dans la direction de la caméra cachée, tout près, de manière à ce que le mot de passe sur son front soit visible
+Mécanique : on peut créer un sélecteur d'angle (ou même un gros rapporteur!) avec une porte et un marquage en forme d'arc de cercle au sol
+Mécanique : [Technophilie] handicaps : un des joueurs a les yeux bandés mais il a des écouteurs et sa position triangulée lui permet de chercher des sons dans l'espace (appuie sur un bouton pour chercher un son)
+Mécanique : monnaie bonus pour acheter des indices au MJ (5) ou pour skip une enigme (10)
+
+_
+Workflow : noeud 〓 énigme + indice + histoire + graphisme + son + app
+Noeuds bonus pour les plus forts
+
+Déroulement : avant que le jeu débute, on se retrouve chez le voisin
+Déroulement : [début] au début du jeu, l'éclairage est désactivé. Les joueurs ont une lampe de poche. Des sons inquiétants sont diffusés. (Fils électriques ?)
+Déroulement : graphe randomisé, condition (sol(A) et sol(B)) pour accéder à C
+Déroulement : riddle-deejaying
+Déroulement : bloquer une porte, sans clé, à l'aide d'une cale à anneau de l'autre côté et d'une corde pour la faire caler
+Déroulement : la réponse à une énigme donne le thème de l'énigme suivante
+Déroulement : [fin] Compte à rebours pour la fin du jeu
+Déroulement : [début] clavier/souris avec cadenas autocollant sur le fil. Unlocked : on peut remettre la souris et le clavier devant l'écran
+Déroulement : [contrôle du flux] Poser au sol un n/n (dernier objet d'une collection) dans une pièce vérouillée : quand les joueurs la dévérouillent, ils finissent l'énigme de collection
+Déroulement : on commence dans une seule pièce et on dévérouille d'autres pièces au fur et à mesure
+
+Mise en place : Délimitation au sol (marquage rouge) de tout ce qui est hors-jeu
+
+
+Graphismes : Incendie / papier brulé
+Graphismes : images avec personnes qui cherchent avec des lampes de poche et des manteaux
+Graphismes : écriture à l'aide d'images de lettres découpées et équivalent sur l'ordi ("image font" with randomness)
+
+
+Idée : le type essaie de créer un escape game dans sa maison mais découvre qu'il y a déjà des codes partout (vers la folie ?)
+Dev : automatiser la création des paires image/son (web-scraping)
+
+__
+Discussion:
+///Il y a toujours plus qu'une chose.
+Pour les énigmes : il y a la façon de les raconter, les indices, le dialogue (intérieur ou extérieur) pour arriver à une solution.
+Les différentes réactions aux énigmes.
+Il y a les versions selon les cultures.
+Il y a la mémoire de telle ou telle énigme (chacun s'entoure à sa façon).
+Il y a les circonstances, les enchaînements.
+
+Les escape-games commerciaux sont plus ou moins automatisés. C'est ce qui fait leur rentabilité.
+
+
+_
+the dead
+
+51/49 ou comment je n'ai pas succombé : quand ton envie de vivre est juste un peu plus forte que ton envie de mort
+
+Et tout le monde ferme sa gueule : mécanique du pourrissement. Chez moi, quand ça commence à sentir le bouc, j'aime bien qu'on me le dise. Alors j'aère davantage et je nettoie, y compris les textiles.
